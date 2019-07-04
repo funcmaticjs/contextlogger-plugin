@@ -1,0 +1,11 @@
+{
+  "callbackWaitsForEmptyEventLoop": true,
+  "logGroupName": "/aws/lambda/funcmatic-invokefunction-dev-invokefunction",
+  "logStreamName": "2019/02/26/[20]e38f863de9e34dcea565d4879f3d458c",
+  "functionName": "funcmatic-invokefunction-dev-invokefunction",
+  "memoryLimitInMB": "1024",
+  "functionVersion": "20",
+  "invokeid": "296790b6-f5a8-4f14-b5ce-f059e44dc764",
+  "awsRequestId": "296790b6-f5a8-4f14-b5ce-f059e44dc764",
+  "invokedFunctionArn": "arn:aws:lambda:us-west-2:233748856986:function:funcmatic-invokefunction-dev-invokefunction:PROD"
+}
