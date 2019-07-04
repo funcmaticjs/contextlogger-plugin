@@ -1,5 +1,5 @@
 {
-  "name": "@funcmaticjs/context-log",
+  "name": "@funcmaticjs/contextlogger-plugin",
   "version": "0.0.1",
   "description": "Funcmatic middleware that logs metadata about the invoked function",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/funcmaticjs/context-log.git"
+    "url": "https://github.com/funcmaticjs/contextlogger-plugin.git"
   },
   "dependencies": {
     "@funcmaticjs/funcmatic": "0.0.5"
